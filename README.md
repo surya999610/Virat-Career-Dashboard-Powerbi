@@ -54,7 +54,7 @@ The dashboard includes:
 git clone https://github.com/surya999610/Virat-Career-Dashboard-Powerbi.git
 ```
 ### 2. Open the Project
-Open the .pbix file using Power BI Desktop
+Open the ``` .pbix ```file using Power BI Desktop
 ### 3. Explore Dashboard
 Use filters (format, year, opponent)
 Interact with visuals for deeper insights
