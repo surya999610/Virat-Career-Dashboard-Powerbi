@@ -70,13 +70,13 @@ Interact with visuals for deeper insights
 
 ## 📈 Result & Conclusion
 
-This project demonstrates how raw sports data can be transformed into meaningful insights using Power BI.
+- This project demonstrates how raw sports data can be transformed into meaningful insights using Power BI.
 
-The dashboard effectively highlights:
+- The dashboard effectively highlights:
 
-Performance consistency
-Career growth trends
-Key achievements and milestones
+- Performance consistency
+- Career growth trends
+- Key achievements and milestones
 
 ## 👤 Author
 
