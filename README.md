@@ -43,7 +43,7 @@ The dashboard includes:
 
 - <a href="https://github.com/surya999610/Virat-Career-Dashboard-Powerbi/blob/main/Dashboard/Virat%20Kholi.pbix"> Dashboard <a/>
 
-<img width="1743" height="737" alt="OLA Sheet 1" src="https://github.com/surya999610/Virat-Career-Dashboard-Powerbi/blob/main/image/dashboard.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/Virat-Career-Dashboard-Powerbi/blob/main/image/dashboard.png" />
 
 ---
 
